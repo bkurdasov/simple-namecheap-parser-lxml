@@ -1,0 +1,20 @@
+
+Job Description
+
+I need a simple scraper that will convert all the domains in the marketplace into a textfile for me.
+
+The one feature it needs is I must be able to select a price range.
+
+Price Range ($)
+
+So say I want to scrape all the domains with price range from 5 - 20. It needs to download all them domains into file listed like this:
+name.com
+name.com
+name.com
+name.com
+name.com
+name.com
+
+I am hoping to get this small script done for cheap. I don't need anything else but this.
+
+https://www.namecheap.com/marketplace/buy-domains.aspx?keyword=&startingletter=&minpricerange=5&maxpricerange=20&sellerusername=&extensions=&excludehypen=&excludenumber=&adultlisting=&maximumlength=&;
